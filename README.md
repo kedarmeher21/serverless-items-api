@@ -2,7 +2,7 @@
 
 A fully serverless **CRUD API** built using:
 
-Services Used :
+Technology Used :
 - **AWS Lambda (Python 3.12)**
 - **Amazon API Gateway**
 - **Amazon DynamoDB**
@@ -89,4 +89,5 @@ PUT https://<your-api-endpoint>/prod/items/{id}
 
 Delete Item
 DELETE https://<your-api-endpoint>/prod/items/{id}
+
 
